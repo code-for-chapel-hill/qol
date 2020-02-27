@@ -1,6 +1,3 @@
-<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed&display=swap" rel="stylesheet">
-<style>* {font-size: 100%; font-family: Roboto Condensed, sans-serif;}</style>
-
 # Quality of Life Platform
 
 ## Project Background
